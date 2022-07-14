@@ -1,0 +1,64 @@
+
+.test{
+    box-shadow: 0 4px 8px;
+    width: 400px;
+    height: 600px;
+    margin-left: 500px;
+    margin-top: 40px;
+
+}
+body{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+.tripp{
+    text-decoration-line: none;}
+
+
+.box{
+    position: relative;
+    top: 5px;
+}
+
+
+
+
+.flex-container{
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.line{
+    text-decoration-line: line-through;
+    color: tomato;
+}
+
+
+.paris{
+
+    height: 270px;
+    width: 150px;
+    border: solid tomato 2px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgray;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.abc{
+    width: 400px;
+    height: 600px;
+    margin-left: 500px;
+}
